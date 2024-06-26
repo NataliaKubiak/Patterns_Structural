@@ -1,4 +1,4 @@
-package task1;
+package Adapter;
 
 public class IntsCalculator implements Ints {
     protected final Calculator target;

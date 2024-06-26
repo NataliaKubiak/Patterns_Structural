@@ -1,4 +1,4 @@
-package task2;
+package Facade;
 
 public class BinOps {
     public String sum(String a, String b) {

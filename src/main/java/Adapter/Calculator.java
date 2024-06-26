@@ -1,4 +1,4 @@
-package task1;
+package Adapter;
 
 public class Calculator {
     public Formula newFormula() {

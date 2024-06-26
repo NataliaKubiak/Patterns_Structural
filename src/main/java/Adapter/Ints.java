@@ -1,4 +1,4 @@
-package task1;
+package Adapter;
 
 public interface Ints {
     int sum(int arg0, int arg1);
